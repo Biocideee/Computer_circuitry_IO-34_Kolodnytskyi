@@ -1,0 +1,16 @@
+Tue Apr 29 16:57:48 ????????? (????) 2025
+Trace back: bad window path name ".aw"
+    while executing
+"grab $oldGrab"
+    (procedure "ModalDialogActivate" line 80)
+    invoked from within
+"ModalDialogActivate $f"
+    (procedure "Project::createSrcFileDialog" line 64)
+    invoked from within
+"$cmd"
+    (procedure "Project::drawUp" line 5)
+    invoked from within
+"Project::drawUp .aw.f.childsite.mainframe.newfile Project::createSrcFileDialog"
+    (command bound to event)
+  <2: ::tkerror {bad window path name ".aw"}
+  <1: ::bgerror {bad window path name ".aw"}
