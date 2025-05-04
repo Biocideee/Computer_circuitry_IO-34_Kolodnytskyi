@@ -1,8 +1,0 @@
-D:/KPI/Semester_3/KC/Lab_5/Lab_5_Kolodnytskyi.v {1 {vlog -work work {D:\KPI\Semester_3\KC\Lab_5\Lab_5_Kolodnytskyi.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mux4to1
-
-Top level modules:
-	mux4to1
-
-} {} {}}
