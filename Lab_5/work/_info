@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\Semester_3\KC\Lab_4_2
+vmux4to1
+!i10b 1
+Z1 !s100 U[36:Fn3SCKKNQBSU]`6d3
+Z2 IVOoEFUg?V6CAa2QZ4BT@?3
+Z3 VDm4P50OM_IGgEP;>S8>kb2
+Z4 dD:\KPI\Semester_3\KC\Lab_5
+Z5 w1746389099
+Z6 8D:/KPI/Semester_3/KC/Lab_5/Lab_5_Kolodnytskyi_1.v
+Z7 FD:/KPI/Semester_3/KC/Lab_5/Lab_5_Kolodnytskyi_1.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1746389161.920000
+!s107 D:/KPI/Semester_3/KC/Lab_5/Lab_5_Kolodnytskyi_1.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/KPI/Semester_3/KC/Lab_5/Lab_5_Kolodnytskyi_1.v|
+!s101 -O0
+Z10 o-work work -O0
