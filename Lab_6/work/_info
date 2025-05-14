@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\Semester_3\KC\Lab_5
+vbitsum
+Z1 !s100 eWDC5:`jd]7c7f@8IRnB_2
+Z2 I4G21U^o`jg7DdB[OKiRJ52
+Z3 Vi9NGmz9LhHK1Bn8hXVK7o2
+Z4 dD:\KPI\Semester_3\KC\Lab_6
+Z5 w1747212258
+Z6 8D:/KPI/Semester_3/KC/Lab_6/8_bit_adder.v
+Z7 FD:/KPI/Semester_3/KC/Lab_6/8_bit_adder.v
+L0 21
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1747215712.013000
+Z10 !s107 D:/KPI/Semester_3/KC/Lab_6/8_bit_adder.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/KPI/Semester_3/KC/Lab_6/8_bit_adder.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_sum
+Z13 !s100 KInUab5g?SJEgL?W8Po3?3
+Z14 IM3WoXT1S@?a`^Y2W?lP6K2
+Z15 V5:MColN9giVaMz1^<kL:?2
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vref_sum
+Z16 !s100 XF17L=O0^e9[cJ[a<U35S0
+Z17 IQ6=aBE8FeVAIEYCgM3jBk1
+Z18 V9:G:eW28:^mbNn=C?:NMX2
+R4
+Z19 w1747212425
+Z20 8D:/KPI/Semester_3/KC/Lab_6/ref_sum.v
+Z21 FD:/KPI/Semester_3/KC/Lab_6/ref_sum.v
+L0 1
+R8
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|D:/KPI/Semester_3/KC/Lab_6/ref_sum.v|
+R12
+!i10b 1
+!s85 0
+Z23 !s108 1747215712.054000
+Z24 !s107 D:/KPI/Semester_3/KC/Lab_6/ref_sum.v|
+!s101 -O0
+vtest_sum
+!i10b 1
+!s100 HRE=DkP5CaLW^1ZJNc4Sg1
+IL;YGNlfe@iEDW14gPZ[g80
+Z25 V?[S@XOc7;P58OizZje^Po0
+R4
+w1747215709
+Z26 8D:/KPI/Semester_3/KC/Lab_6/test_bench.v
+Z27 FD:/KPI/Semester_3/KC/Lab_6/test_bench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1747215712.089000
+!s107 D:/KPI/Semester_3/KC/Lab_6/test_bench.v|
+Z28 !s90 -reportprogress|300|-work|work|D:/KPI/Semester_3/KC/Lab_6/test_bench.v|
+!s101 -O0
+R12
